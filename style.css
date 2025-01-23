@@ -1,0 +1,12 @@
+body {
+	background-color: darkgreen;
+}
+
+.container {
+	background-color: lightseagreen;
+}
+
+mark { 
+  background-color: black;
+  color: white;
+}
